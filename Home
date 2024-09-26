@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <meta charset="utf-8">
+      <title>Portfólios</title>
+      <link rel="stylesheet" type="text/css" href="Stylesheet/Style CSS.css">
+   </head>
+
+    <body style="background: #1D1D1B;">
+
+      <header>
+         <h1>Conheça nossos trabalhos!
+         <link rel="stylesheet" type="text/css" href="Stylesheet/Style CSS_home.css">
+
+         </h1>
+      </header>
+
+      <main>
+         <section>
+            <h2>
+               <div id="Perfil">
+                  
+                  <div id=Mateus>
+
+                     <article>   
+
+                         <div class="container">
+                           
+                           <img src="https://cdn.discordapp.com/attachments/643557764882235431/898378533225783336/unknown.png" alt="Rosto de homem sorrindo" width="464" height="464"> 
+
+                        </div> 
+
+                     <p class="titulo-nome">Mateus Souza</p>
+
+                     <p>Produtor Musical</p>
+                     <p>Designer Gráfico</p>
+                     <p>Comunicador</p>
+
+                   <img src="https://img.icons8.com/ios-glyphs/40/ffffff/adobe-illustrator.png" alt="adobe-illustrator"/>
+                   <img src="https://img.icons8.com/ios-glyphs/40/ffffff/adobe-photoshop.png" alt="adobe-indesign"/>
+                   <img src="https://img.icons8.com/material-rounded/40/ffffff/adobe-premiere-pro.png" alt="adobe-photoshop"/>
+                   <img src="https://img.icons8.com/windows/40/ffffff/fl-studio.png" alt="fl studio"/>
+
+                </article>
+
+                  </div>
+
+                  <div id=Samara>
+
+                     <article>
+
+                        <div class="container">
+                           
+                           <img src="https://cdn.discordapp.com/attachments/643557764882235431/898378666059399248/unknown.png" alt="Rosto de mulher de cabelos curtos e óculos escuros" width="464" height="464"> 
+
+                        </div> 
+                        
+                     <p class="titulo-nome">Samara Angélica</p>
+
+                     <p>Designer Gráfica</p>
+                     <p>UX/UI Designer</p>
+                     <p>Ilustradora</p>
+
+                   <img src="https://img.icons8.com/ios-glyphs/40/ffffff/adobe-illustrator.png" alt="adobe-illustrator"/>
+                   <img src="https://img.icons8.com/ios-glyphs/40/ffffff/adobe-indesign.png" alt="adobe-indesign"/>
+                   <img src="https://img.icons8.com/ios-glyphs/40/ffffff/adobe-photoshop.png" alt="adobe-photoshop"/>
+                   <img src="https://img.icons8.com/ios-glyphs/40/ffffff/figma.png" alt="figma"/>
+
+                     </article>
+
+                  </div>
+
+               <div id="botao-acessar1">
+                  <article>
+                     <a href="Codigo Portfolio_Samara Angelica_Pagina Mateus.html"><h2>Acessar</h2>
+                     
+                  </article>
+               </div>
+
+               <div id="botao-acessar2">
+                  <article>
+                    <a href="Codigo Portfolio_Samara Angelica_Pagina Samara.html"><h2>Acessar</h2>
+                    
+                  </article>
+               </div>
+
+               </section>
+            </h2>
+         </section>
+      </main>
+
+   </body>
+
+</html>
